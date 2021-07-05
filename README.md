@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->   
-Nice day!   
 🐑🐑🐑
 - 🌱 I’m currently learning in PKNU!   
 
