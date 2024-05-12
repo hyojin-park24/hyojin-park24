@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp    
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MSSQL-E6B91E?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GitLab-092E20?style=flat-square&logo=gitlab&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jira-339933?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
 </p>
 
 - 🔭 I’m currently working on SolvaTechnology.
