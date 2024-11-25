@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ari from Doctor Slump
 - ⚡ Fun fact: I enjoy programming
 
+-------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyojin-park24&layout=compact)](https://github.com/hyojin-park24/github-readme-stats)
+
