@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on MICT.
 - 🤔 I’m looking for help with make culture for peace.
 - 💬 Ask me about C# or DataBase.
-- 📫 How to reach me: qkrgywls332@gamil.com
+- 📫 How to reach me:edun1440@gamil.com
 - 😄 Pronouns: Ari from Doctor Slump
 - ⚡ Fun fact: I enjoy programming
 
